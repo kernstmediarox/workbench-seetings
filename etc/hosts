@@ -1,0 +1,46 @@
+#festa-verlag
+127.0.1.1       festa-verlag.m1 www.festa-verlag.m1
+127.0.1.1       festa-verlag.m2 www.festa-verlag.m2
+
+#timeshop24
+127.0.1.1       timeshop24.m1 www.timeshop24.m1 
+127.0.1.1       com.timeshop24.m1 b2b.timeshop24.m1
+127.0.1.1       timeshop24.m2 www.timeshop24.m2 
+127.0.1.1       com.timeshop24.m2 b2b.timeshop24.m2
+
+#messerspezialist
+127.0.1.1       messerspezialist.m1 www.messerspezialist.m1
+127.0.1.1       messerspezialist.m2 www.messerspezialist.m2
+
+#okapi-online
+127.0.1.1       okapi-online.m1 www.okapi-online.m1                             
+127.0.1.1       okapi-online.m2 www.okapi-online.m2                               
+
+#porta-kosmetik
+127.0.1.1       porta-kosmetik.m1 www.porta-kosmetik.m1 
+127.0.1.1       porta-cosmetics.m1 www.porta-cosmetics.m1
+127.0.1.1       porta-kosmetik.m2 www.porta-kosmetik.m2 
+127.0.1.1       porta-cosmetics.m2 www.porta-cosmetics.m2
+
+#ascopharm
+127.0.0.1       ascopharm.m1 www.ascopharm.m1
+127.0.1.1       en.ascopharm.m1 at.ascopharm.m1 ch.ascopharm.m1 b2b.ascopharm.m1 
+127.0.1.1       shop.lebensbaum.m1 gv-shop.lebensbaum.m1
+127.0.0.1       ascopharm.m2 www.ascopharm.m2
+127.0.1.1       en.ascopharm.m2 at.ascopharm.m2 ch.ascopharm.m2 b2b.ascopharm.m2 
+127.0.1.1       shop.lebensbaum.m2 gv-shop.lebensbaum.m2
+
+#urkunden
+127.0.1.1       urkunden.m2 www.urkunden.m2
+
+#aktiv100
+127.0.1.1       vitacore24.m1 www.vitacore24.m1 
+127.0.1.1       cleanmeout24.m1 www.cleanmeout24.m1 
+127.0.1.1       mensworld24.m1 www.mensworld24.m1
+127.0.1.1       aktiv100.m2 www.aktiv100.m2
+127.0.1.1       revitalkur.m2 www.revitalkur.m2 
+127.0.1.1       mannhaftig.m2 www.mannhaftig.m2 
+127.0.1.1       entgiftungsprogramm.m2 www.entgiftungsprogramm.m2
+
+#frauenfreude
+127.0.1.1       frauenfreude.local m2.frauenfreude.local
