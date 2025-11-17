@@ -10,6 +10,7 @@ alias grunt_start='grunt clean && grunt exec && grunt less && grunt watch'
 alias elasticsearch='/home/programms/elasticsearch/bin/elasticsearch'
 alias updater='composer update --prefer-source -v me*'
 alias magento='dev/bin/magento'
+alias refreshbash='/home/data/www/modules/dev/bashrc/install_settings'
 
 dbrefresh_m2() {
     tar xfvz $1
@@ -32,6 +33,7 @@ alias myip='dig @resolver1.opendns.com ANY myip.opendns.com +short'
 # server connection settings
 #festa-verlag
 alias de_festa-verlag='ssh de_festa-verlag'
+alias de_festa-verlag_old='ssh de_festa-verlag_old'
 alias de_festa-verlag_test='ssh de_festa-verlag_test'
 alias de_horrorundthriller='ssh de_horrorundthriller'
 
