@@ -50,7 +50,7 @@ alias com_okapi-shop='ssh com_okapi-shop'
 
 #porta-kosmetik
 alias de_porta-kosmetik='ssh de_porta-kosmetik'
-alias de_porta-kosmetik_b2c='ssh de_porta-kosmetik_b2c'
+alias de_beautyprofis='ssh de_beautyprofis'
 
 #urkunden
 alias com_urkunden='ssh com_urkunden'
